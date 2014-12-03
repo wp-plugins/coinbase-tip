@@ -10,10 +10,30 @@ Tested up to: 4.1
 A Wordpress plugin and widget that lets you accept Coinbase Tips on your site!
 
 == Description ==
-A Wordpress plugin and widget that lets you accept Coinbase Tips on your site! Use the `[coinbase_tips]` shortcode to display the Coinbase Tips anywhere shortcodes can be used!
 
-Example Shortcode:
-`[coinbase_tips]`
+Add the Coinbase tip button to your site in minutes!
+
+
+The Coinbase tip button plugin enables you to directly monetize content by allowing your audience to show support in the form of one-click tips.
+
+
+0. Create an account at http://www.coinbase.com
+
+1.    2. Create a username in Settings of your Coinbase account: https://www.coinbase.com/settings#payment_page
+
+Tip Button Features
+
+·      Create a new revenue stream or generate funds for a charity of your choice
+
+·      Free
+
+·      One-click tips (default is 300 bits, which is currently ~10 cents)
+
+A few stats on Coinbase
+
+·      2 million users
+
+·      Affluent, tech savvy early-adopter user base that loves to support content creators online
 
 == Installation ==
 
