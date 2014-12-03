@@ -1,5 +1,5 @@
-=== Coinbase ===
-Contributors: Coinbase Tip
+=== Coinbase Tip ===
+Contributors: James Hudon
 Tags: Post, posts, bitcoin, coinbase, coinbase tips, coinbase tip, shortcode,
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -21,7 +21,7 @@ Example Shortcode:
 
 1. Visit your admin section and click Plugins -> Add New.  Then search for "Coinbase Tips".
 
-2. Once you’ve installed the plugin, visit the Settings -> Coinbase Tips page and enter the Coinbase account info obtained in step 0.
+2. Once you've installed the plugin, visit the Settings -> Coinbase Tips page and enter the Coinbase account info obtained in step 0.
 
 3. Now that you've enabled the plugin and setup the Coinbase Tips settings you may use either of the two methods:
 
