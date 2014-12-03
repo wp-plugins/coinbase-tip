@@ -7,7 +7,7 @@ Stable tag: trunk
 Requires at least: 3.0
 Tested up to: 4.1
 
-A Wordpress plugin and widget that lets you accept Coinbase Tips on your site!
+A Wordpress plugin that lets you accept bitcoin tips!
 
 == Description ==
 
