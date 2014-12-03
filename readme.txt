@@ -20,14 +20,17 @@ The Coinbase tip button plugin enables you to directly monetize content by allow
 
 Tip Button Features
 
-·      Create a new revenue stream or generate funds for a charity of your choice
-·      Free
-·      One-click tips (default is 300 bits, which is currently ~10 cents)
+· Create a new revenue stream or generate funds for a charity of your choice
+
+· Free
+
+· One-click tips (default is 300 bits, which is currently ~10 cents)
 
 A few stats on Coinbase
 
-·      2 million users
-·      Affluent, tech savvy early-adopter user base that loves to support content creators online
+· 2 million users
+
+· Affluent, tech savvy early-adopter user base that loves to support content creators online
 
 == Installation ==
 
