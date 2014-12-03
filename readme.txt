@@ -26,14 +26,14 @@ Tip Button Features
 
 A few stats on Coinbase
 
-- 2 million users
+- 2 million+ wallets
 - Affluent, tech savvy early-adopter user base that loves to support content creators online
 
 == Installation ==
 
 0. Grab your Coinbase Username or UserID from the Coinbase Tips page.
 
-1. Visit your admin section and click Plugins -> Add New.  Then search for "Coinbase Tips".
+1. Visit your admin section and click Plugins -> Add New.  Then search for "Coinbase Tip".
 
 2. Once you've installed the plugin, visit the Settings -> Coinbase Tips page and enter the Coinbase account info obtained in step 0.
 
