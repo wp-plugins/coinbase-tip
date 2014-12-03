@@ -9,7 +9,7 @@
  * License: GPLv2 or later
  */
 
-/* 
+/*
 
 Copyright (C) 2014 Coinbase Inc.
 
@@ -39,7 +39,7 @@ class WP_Coinbase {
   private $l10n;
   private $wpsf;
 
-  function __construct() {  
+  function __construct() {
     $this->plugin_path = plugin_dir_path( __FILE__ );
     $this->plugin_url = plugin_dir_url( __FILE__ );
     $this->l10n = 'wp-settings-framework';
