@@ -1,5 +1,5 @@
 === Coinbase Tip ===
-Contributors: James Hudon
+Contributors: hudon689
 Tags: Post, posts, bitcoin, coinbase, coinbase tips, coinbase tip, shortcode, tip button, coinbase tip button, coinbase bitcoin button
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
