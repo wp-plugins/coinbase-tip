@@ -29,6 +29,8 @@ A few stats on Coinbase
 - 2 million+ wallets
 - Affluent, tech savvy early-adopter user base that loves to support content creators online
 
+The default tip amount is 300 bits. Tippers can change that amount by adjusting it in their Coinbase Settings (https://www.coinbase.com/settings#coinbase_tip).
+
 == Installation ==
 
 0. Grab your Coinbase Username or UserID from the Coinbase Tips page.
